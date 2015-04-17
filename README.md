@@ -1,7 +1,6 @@
 # chat-example
 
-This is the source code for a very simple chat example used for 
-the [Getting Started](http://socket.io/get-started/chat/) guide 
-of the Socket.IO website.
+This is a sample webchat using socket.io. 
+With some modification for my courseworks.
 
-Please refer to it to learn how to run this application.
+The original version, please refer to http://socket.io/get-started/chat/ for more info.
